@@ -1,4 +1,12 @@
-# IPL-Data-Analysis
+%md-sandbox
+
+<div style="text-align: center;">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHBG_JmpOhUxcbMLkJlZcrmEWNDLjJb1ufK7peaaJPPmDBiYBeAhIplBT-X3efpIAN5g&usqp=CAU" alt="IPL Data Analysis In Databricks" style="margin-bottom: 10px; width: 200px;">
+  </div>
+  <h2 style="margin-top: 0;">IPL Data Analysis In Databricks</h2>
+</div>
+
 
 Use the IPL dataset in this repo, upload it to any cloud storage like Azure/AWS/GCP and read it from there into Databricks.
 Else upload the files into databricks and start analysing the data.
@@ -7,7 +15,7 @@ I have create 2 files available inside solution folder, I have wriiten the solut
 
 Below are the questions that I created and tried to find the answers.
 
-1.Find out max and min wicket taken by a bowler in each season ?
+- 1.Find out max and min wicket taken by a bowler in each season ?
 2.Find out bowler taken wicket of same player more than once in same season or diff season?
 3.Find out which bowler has given max and min runs in a season?
 4.Find out which bowler has given max boundary runs in each season?
