@@ -1,10 +1,6 @@
-<div style="text-align: center;">
-  <div style="display: flex; justify-content: center;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHBG_JmpOhUxcbMLkJlZcrmEWNDLjJb1ufK7peaaJPPmDBiYBeAhIplBT-X3efpIAN5g&usqp=CAU" alt="IPL Data Analysis In Databricks" style="margin-bottom: 10px; width: 200px;">
-  </div>
-  <h2 style="margin-top: 0;">IPL Data Analysis In Databricks</h2>
-</div>
-
+<p align="center">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHBG_JmpOhUxcbMLkJlZcrmEWNDLjJb1ufK7peaaJPPmDBiYBeAhIplBT-X3efpIAN5g&usqp=CAU" alt="IPL Data Analysis In Databricks" style="margin-bottom: 10px; width: 200px;">
+</p>  
 
 Use the IPL dataset in this repo, upload it to any cloud storage like Azure/AWS/GCP and read it from there into Databricks.
 Else upload the files into databricks and start analysing the data.
