@@ -24,4 +24,3 @@ Below are the questions that I created and tried to find the answers.
 - Find matches per season and plot them as a bar chart?
 - Visualize most final matches played by a team?
 - Who won most man of the matches?
-
